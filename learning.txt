@@ -1,1 +1,1 @@
-echo "#What I have learned from this cours Something I've Learned\n\nI've learned how to use GitHub to create repositories, work with branches, and collaborate with others using pull requests." > learning.txt
+What I have learned from this cours Something I've Learned I've learned how to use GitHub to create repositories, work with branches, and collaborate with others using pull requests.
